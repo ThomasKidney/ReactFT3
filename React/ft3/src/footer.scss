@@ -1,0 +1,81 @@
+// This is the project stylesheet
+
+// Colors
+$transparent-black: rgba(0, 0, 0, 0.06);
+$transparent-silver: rgba(187, 187, 187, 0.1);
+$white: rgba(255, 255, 255, 1);
+
+.component1 {
+    padding: 20px 0 0;
+    bottom: 0;
+    position: fixed;
+  }
+  .rectangle51 {
+    width: 375px;
+    height: 75px;
+    background-color: $white;
+    border-radius: 53px 53px 0px 0px;
+    box-shadow: 0 -2px 24px 0 $transparent-silver;
+    position: relative;
+  }
+  .iconlyLightSetting {
+    position: absolute;
+    right: 34px;
+    top: 41px;
+  }
+  .ellipse8 {
+    width: 80px;
+    height: 80px;
+    background-color: $white;
+    border-radius: 50%;
+    box-shadow: 0 -1px 11px 0 $transparent-black;
+    position: absolute;
+    right: 147px;
+    top: 0;
+  }
+  .iconlyLightHome {
+    position: absolute;
+    left: 170px;
+    top: 22px;
+  }
+  .iconlyLightCalendar {
+    position: absolute;
+    left: 34px;
+    top: 41px;
+  }
+  .iconlyLightMessage {
+    position: absolute;
+    right: 102px;
+    top: 41px;
+  }
+  .iconlyLightDocument {
+    position: absolute;
+    left: 102px;
+    top: 41px;
+  }
+  .Heure{
+    background-color:#fff;
+  }
+  .JD{
+    margin: 0;
+    margin-left: 75%;
+    margin-top: 25px;
+    background-color: #fff ;
+    position: absolute;
+  }
+  .Bien{
+    margin: 0;
+    margin-left: 9%;
+    margin-top: 100px;
+    background-color: #fff;
+    position: absolute;
+    font-size: 15px;
+  }
+  .Date{
+    margin: 0;
+    margin-left: 36%;
+    margin-top: 94%;
+    background-color: #fff;
+    position: absolute;
+    font-size: 20px;
+  }

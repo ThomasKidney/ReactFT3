@@ -1,0 +1,137 @@
+// This is the project stylesheet
+
+// Colors
+$black: rgba(0, 0, 0, 1);
+$midnight-blue: rgba(0, 62, 92, 1);
+$transparent-black: rgba(0, 0, 0, 0.06);
+$transparent-silver: rgba(187, 187, 187, 0.1);
+$transparent-white-smoke: rgba(232, 232, 232, 0.8);
+$white: rgba(255, 255, 255, 1);
+$yellow-green: rgba(145, 190, 30, 1);
+
+.component2 {
+    background-color: $transparent-white-smoke;
+    border-radius: 50px;
+    padding: 16px 19px 17px 40px;
+    display: flex;
+    align-items: center;
+    backdrop-filter: blur(150px);
+    margin-top: -370px;
+    margin-left: 15px;
+    margin-right: 15px;
+    z-index: 1;
+
+  }
+  .rectangle38 {
+    margin-right: 10px;
+    height: 74px;
+    width: 75px;
+  }
+  .flexWrapperTwo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .heure3 {
+    height: 16px;
+    width: 50px;
+    font-family: "Century Gothic";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    color: $black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 7px;
+  }
+  .flexWrapperOne {
+    margin-bottom: 7px;
+    margin-left: 1px;
+    position: relative;
+  }
+  .distributionSD {
+    width: 188px;
+    position: relative;
+    font-family: "Century Gothic";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+    color: $black;
+  }
+  .distributionSDEmphasis1 {
+    font-family: "Century Gothic";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: normal;
+    color: $midnight-blue;
+  }
+  .flexWrapperThree {
+    display: flex;
+    align-items: center;
+  }
+  .iconlyLightLocation {
+    margin-right: 1px;
+  }
+  .appartement335 {
+    height: 20px;
+    width: 83px;
+    font-family: "Century Gothic";
+    font-size: 9px;
+    font-weight: 400;
+    line-height: normal;
+    color: $midnight-blue;
+    display: flex;
+    align-items: center;
+  }
+  .appartement332 {
+    height: 20px;
+    width: 83px;
+    font-family: "Century Gothic";
+    font-size: 9px;
+    font-weight: 400;
+    line-height: normal;
+    color: $midnight-blue;
+    display: flex;
+    align-items: center;
+  }
+  .component3 {
+    background-color: $transparent-white-smoke;
+    border-radius: 50px;
+    padding: 16px 19px 17px 40px;
+    display: flex;
+    align-items: center;
+    backdrop-filter: blur(150px);
+    margin-top: -370px;
+    margin-left: 15px;
+    margin-right: 15px;
+    z-index: 1;
+    margin-top: 14px;
+  }
+  .fleche{
+      width: 40px;
+  }
+  .Test{
+    position:absolute;
+    margin-top: -125px;
+    width: 40px;
+  }.ProTa{
+    position:absolute;
+    margin-top: -117px;
+    margin-left: 50px;
+    font-family: "Century Gothic";
+  }
+  .Titre{
+    width: 40px;
+    font-family: "Century Gothic";
+  }
+  .logo{
+    width: 20%;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 25px;
+  }
+  .Noemie{
+    color: #003E5C;
+    font-size: 20px; 
+    font-family: "Century Gothic";
+ }

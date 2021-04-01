@@ -1,0 +1,24 @@
+@mixin century-gothic-12-bold {
+    font-family: "Century Gothic";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: normal;
+  }
+  @mixin century-gothic-14-regular {
+    font-family: "Century Gothic";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+  }
+  @mixin century-gothic-16-bold {
+    font-family: "Century Gothic";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+  }
+  @mixin century-gothic-18-bold {
+    font-family: "Century Gothic";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+  }
